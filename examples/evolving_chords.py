@@ -1,3 +1,6 @@
+
+#!C:\Users\vieir\Anaconda3\envs\tf\python.exe
+
 from pyo import *
 
 s = Server().boot()

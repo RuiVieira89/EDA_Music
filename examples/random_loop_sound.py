@@ -1,4 +1,6 @@
 
+#!C:\Users\vieir\Anaconda3\envs\tf\python.exe
+
 # looping music with randomly generated notes (within a whole step range)
 
 from pyo import  *
